@@ -21,4 +21,4 @@ To run the Random Number Generator locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/barzeito/Random-Number.git
+   git clone https://github.com/barzeito/RandomNumber.git
