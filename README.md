@@ -15,6 +15,9 @@ This is a simple Random Number Generator web app that allows you to generate a r
 3. Click the "Generate" button to generate a random number within the provided range.
 4. If the minimum is greater than the maximum, an error message will be displayed.
 
+## 🔗 Live Demo
+[Use Now](https://barzeito.github.io/RandomNumber/)  
+
 ## Installation
 
 To run the Random Number Generator locally, follow these steps:
